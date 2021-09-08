@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">News Feed Demo</string>
+    <string name="default_news_description">Hello, I am the description. I am about 2 to 3 sentences long. Blah blah blah blah blah blah blah. More blah</string>
+    <string name="default_news_title">Title</string>
+    <string name="default_news_category">Category</string>
+    <string name="default_news_source">Source</string>
+</resources>
